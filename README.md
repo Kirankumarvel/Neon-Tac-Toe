@@ -57,7 +57,10 @@
 
 | Game Start | Mid-Game | Win Celebration |
 |------------|----------|-----------------|
-| ![Start](screenshots/start.png) | ![Midgame](screenshots/midgame.png) | ![Win](screenshots/win.png) |
+| ![Start](![image](https://github.com/user-attachments/assets/cd31f3e8-ecff-46b1-9e90-da8b8596a8db)
+) | ![Midgame](![image](https://github.com/user-attachments/assets/2ccd96f2-d6ed-4543-bcbc-c1e7b2914773)
+) | ![Win](![image](https://github.com/user-attachments/assets/220089f3-3f8a-471b-9211-4c97beb8d585)
+) |
 
 ## 🛠️ Built With
 
