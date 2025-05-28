@@ -76,7 +76,7 @@ PRs welcome! Here's how:
 
 ## 📜 License
 
-MIT © [Kiran Kumar] - See [LICENSE](LICENSE) for details
+MIT © Kiran Kumar - See [LICENSE](LICENSE) for details
 
 ---
 
